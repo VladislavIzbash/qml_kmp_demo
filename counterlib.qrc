@@ -1,0 +1,7 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/qml_kmp_demo/">
+        <file alias="counterlib.mjs">counterlib/build/dist/js/productionLibrary/counterlib.mjs</file>
+        <file alias="kotlin-kotlin-stdlib-js-ir.mjs">counterlib/build/dist/js/productionLibrary/kotlin-kotlin-stdlib-js-ir.mjs</file>
+    </qresource>
+</RCC>
